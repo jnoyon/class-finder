@@ -1,0 +1,297 @@
+[
+    {
+      "name": "flex",
+      "tailwind": "flex",
+      "bootstrap": "d-flex",
+      "cssProperty": "display: flex"
+    },
+    {
+      "name": "block",
+      "tailwind": "block",
+      "bootstrap": "d-block",
+      "cssProperty": "display: block"
+    },
+    {
+      "name": "inline",
+      "tailwind": "inline",
+      "bootstrap": "d-inline",
+      "cssProperty": "display: inline"
+    },
+    {
+      "name": "inline-block",
+      "tailwind": "inline-block",
+      "bootstrap": "d-inline-block",
+      "cssProperty": "display: inline-block"
+    },
+    {
+      "name": "grid",
+      "tailwind": "grid",
+      "bootstrap": "d-grid",
+      "cssProperty": "display: grid"
+    },
+    {
+      "name": "inline-grid",
+      "tailwind": "inline-grid",
+      "bootstrap": "d-inline-grid",
+      "cssProperty": "display: inline-grid"
+    },
+    {
+      "name": "none",
+      "tailwind": "hidden",
+      "bootstrap": "d-none",
+      "cssProperty": "display: none"
+    },
+    {
+      "name": "flex-row",
+      "tailwind": "flex-row",
+      "bootstrap": "flex-row",
+      "cssProperty": "flex-direction: row"
+    },
+    {
+      "name": "flex-col",
+      "tailwind": "flex-col",
+      "bootstrap": "flex-column",
+      "cssProperty": "flex-direction: column"
+    },
+    {
+      "name": "justify-start",
+      "tailwind": "justify-start",
+      "bootstrap": "justify-content-start",
+      "cssProperty": "justify-content: flex-start"
+    },
+    {
+      "name": "justify-center",
+      "tailwind": "justify-center",
+      "bootstrap": "justify-content-center",
+      "cssProperty": "justify-content: center"
+    },
+    {
+      "name": "justify-end",
+      "tailwind": "justify-end",
+      "bootstrap": "justify-content-end",
+      "cssProperty": "justify-content: flex-end"
+    },
+    {
+      "name": "justify-between",
+      "tailwind": "justify-between",
+      "bootstrap": "justify-content-between",
+      "cssProperty": "justify-content: space-between"
+    },
+    {
+      "name": "justify-evenly",
+      "tailwind": "justify-evenly",
+      "bootstrap": "justify-content-evenly",
+      "cssProperty": "justify-content: space-evenly"
+    },
+    {
+      "name": "align-start",
+      "tailwind": "items-start",
+      "bootstrap": "align-items-start",
+      "cssProperty": "align-items: flex-start"
+    },
+    {
+      "name": "align-center",
+      "tailwind": "items-center",
+      "bootstrap": "align-items-center",
+      "cssProperty": "align-items: center"
+    },
+    {
+      "name": "align-end",
+      "tailwind": "items-end",
+      "bootstrap": "align-items-end",
+      "cssProperty": "align-items: flex-end"
+    },
+    {
+      "name": "align-baseline",
+      "tailwind": "items-baseline",
+      "bootstrap": "align-items-baseline",
+      "cssProperty": "align-items: baseline"
+    },
+    {
+      "name": "align-stretch",
+      "tailwind": "items-stretch",
+      "bootstrap": "align-items-stretch",
+      "cssProperty": "align-items: stretch"
+    },
+    {
+      "name": "gap",
+      "tailwind": "gap-4",
+      "bootstrap": "g-4",
+      "cssProperty": "gap: 1rem"
+    },
+    {
+      "name": "padding",
+      "tailwind": "p-4",
+      "bootstrap": "p-3",
+      "cssProperty": "padding: 1rem"
+    },
+    {
+      "name": "m-auto",
+      "tailwind": "m-auto",
+      "bootstrap": "m-auto",
+      "cssProperty": "margin: auto"
+    },
+    {
+      "name": "m-0",
+      "tailwind": "m-0",
+      "bootstrap": "m-0",
+      "cssProperty": "margin: 0"
+    },
+    {
+      "name": "m-4",
+      "tailwind": "m-4",
+      "bootstrap": "m-3",
+      "cssProperty": "margin: 1rem"
+    },
+    {
+      "name": "mt-4",
+      "tailwind": "mt-4",
+      "bootstrap": "mt-3",
+      "cssProperty": "margin-top: 1rem"
+    },
+    {
+      "name": "mb-4",
+      "tailwind": "mb-4",
+      "bootstrap": "mb-3",
+      "cssProperty": "margin-bottom: 1rem"
+    },
+    {
+      "name": "ml-4",
+      "tailwind": "ml-4",
+      "bootstrap": "ml-3",
+      "cssProperty": "margin-left: 1rem"
+    },
+    {
+      "name": "mr-4",
+      "tailwind": "mr-4",
+      "bootstrap": "mr-3",
+      "cssProperty": "margin-right: 1rem"
+    },
+    {
+      "name": "p-4",
+      "tailwind": "p-4",
+      "bootstrap": "p-3",
+      "cssProperty": "padding: 1rem"
+    },
+    {
+      "name": "pt-4",
+      "tailwind": "pt-4",
+      "bootstrap": "pt-3",
+      "cssProperty": "padding-top: 1rem"
+    },
+    {
+      "name": "pb-4",
+      "tailwind": "pb-4",
+      "bootstrap": "pb-3",
+      "cssProperty": "padding-bottom: 1rem"
+    },
+    {
+      "name": "pl-4",
+      "tailwind": "pl-4",
+      "bootstrap": "pl-3",
+      "cssProperty": "padding-left: 1rem"
+    },
+    {
+      "name": "pr-4",
+      "tailwind": "pr-4",
+      "bootstrap": "pr-3",
+      "cssProperty": "padding-right: 1rem"
+    },
+    {
+      "name": "text-center",
+      "tailwind": "text-center",
+      "bootstrap": "text-center",
+      "cssProperty": "text-align: center"
+    },
+    {
+      "name": "text-left",
+      "tailwind": "text-left",
+      "bootstrap": "text-start",
+      "cssProperty": "text-align: left"
+    },
+    {
+      "name": "text-right",
+      "tailwind": "text-right",
+      "bootstrap": "text-end",
+      "cssProperty": "text-align: right"
+    },
+    {
+      "name": "uppercase",
+      "tailwind": "uppercase",
+      "bootstrap": "text-uppercase",
+      "cssProperty": "text-transform: uppercase"
+    },
+    {
+      "name": "lowercase",
+      "tailwind": "lowercase",
+      "bootstrap": "text-lowercase",
+      "cssProperty": "text-transform: lowercase"
+    },
+    {
+      "name": "capitalize",
+      "tailwind": "capitalize",
+      "bootstrap": "text-capitalize",
+      "cssProperty": "text-transform: capitalize"
+    },
+    {
+      "name": "shadow",
+      "tailwind": "shadow",
+      "bootstrap": "shadow",
+      "cssProperty": "box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12)"
+    },
+    {
+      "name": "shadow-lg",
+      "tailwind": "shadow-lg",
+      "bootstrap": "shadow-lg",
+      "cssProperty": "box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15)"
+    },
+    {
+      "name": "rounded",
+      "tailwind": "rounded",
+      "bootstrap": "rounded",
+      "cssProperty": "border-radius: 0.25rem"
+    },
+    {
+      "name": "rounded-lg",
+      "tailwind": "rounded-lg",
+      "bootstrap": "rounded-lg",
+      "cssProperty": "border-radius: 0.5rem"
+    },
+    {
+      "name": "border",
+      "tailwind": "border",
+      "bootstrap": "border",
+      "cssProperty": "border: 1px solid #e5e7eb"
+    },
+    {
+      "name": "border-2",
+      "tailwind": "border-2",
+      "bootstrap": "border-2",
+      "cssProperty": "border: 2px solid #e5e7eb"
+    },
+    {
+      "name": "opacity-50",
+      "tailwind": "opacity-50",
+      "bootstrap": "opacity-50",
+      "cssProperty": "opacity: 0.5"
+    },
+    {
+      "name": "opacity-75",
+      "tailwind": "opacity-75",
+      "bootstrap": "opacity-75",
+      "cssProperty": "opacity: 0.75"
+    },
+    {
+      "name": "cursor-pointer",
+      "tailwind": "cursor-pointer",
+      "bootstrap": "cursor-pointer",
+      "cssProperty": "cursor: pointer"
+    },
+    {
+      "name": "overflow-hidden",
+      "tailwind": "overflow-hidden",
+      "bootstrap": "overflow-hidden",
+      "cssProperty": "overflow: hidden"
+    }
+  ]
+  
