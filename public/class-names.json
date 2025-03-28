@@ -292,6 +292,339 @@
       "tailwind": "overflow-hidden",
       "bootstrap": "overflow-hidden",
       "cssProperty": "overflow: hidden"
-    }
+    },
+    {
+        "name": "btn",
+        "tailwind": "px-4 py-2 bg-blue-500 text-white rounded",
+        "bootstrap": "btn btn-primary",
+        "cssProperty": "background-color: #3490dc; color: white; padding: 0.5rem 1rem; border-radius: 0.25rem"
+      },
+      {
+        "name": "btn-secondary",
+        "tailwind": "px-4 py-2 bg-gray-500 text-white rounded",
+        "bootstrap": "btn btn-secondary",
+        "cssProperty": "background-color: #6c757d; color: white; padding: 0.5rem 1rem; border-radius: 0.25rem"
+      },
+      {
+        "name": "btn-danger",
+        "tailwind": "px-4 py-2 bg-red-500 text-white rounded",
+        "bootstrap": "btn btn-danger",
+        "cssProperty": "background-color: #e3342f; color: white; padding: 0.5rem 1rem; border-radius: 0.25rem"
+      },
+      {
+        "name": "btn-success",
+        "tailwind": "px-4 py-2 bg-green-500 text-white rounded",
+        "bootstrap": "btn btn-success",
+        "cssProperty": "background-color: #38c172; color: white; padding: 0.5rem 1rem; border-radius: 0.25rem"
+      },
+      {
+        "name": "btn-warning",
+        "tailwind": "px-4 py-2 bg-yellow-500 text-white rounded",
+        "bootstrap": "btn btn-warning",
+        "cssProperty": "background-color: #ffed4a; color: white; padding: 0.5rem 1rem; border-radius: 0.25rem"
+      },
+      {
+        "name": "btn-info",
+        "tailwind": "px-4 py-2 bg-teal-500 text-white rounded",
+        "bootstrap": "btn btn-info",
+        "cssProperty": "background-color: #4dc0b5; color: white; padding: 0.5rem 1rem; border-radius: 0.25rem"
+      },
+      {
+        "name": "btn-light",
+        "tailwind": "px-4 py-2 bg-gray-200 text-black rounded",
+        "bootstrap": "btn btn-light",
+        "cssProperty": "background-color: #f8f9fa; color: black; padding: 0.5rem 1rem; border-radius: 0.25rem"
+      },
+      {
+        "name": "btn-dark",
+        "tailwind": "px-4 py-2 bg-gray-800 text-white rounded",
+        "bootstrap": "btn btn-dark",
+        "cssProperty": "background-color: #343a40; color: white; padding: 0.5rem 1rem; border-radius: 0.25rem"
+      },
+      {
+        "name": "bg-primary",
+        "tailwind": "bg-blue-500",
+        "bootstrap": "bg-primary",
+        "cssProperty": "background-color: #3490dc"
+      },
+      {
+        "name": "bg-secondary",
+        "tailwind": "bg-gray-500",
+        "bootstrap": "bg-secondary",
+        "cssProperty": "background-color: #6c757d"
+      },
+      {
+        "name": "bg-success",
+        "tailwind": "bg-green-500",
+        "bootstrap": "bg-success",
+        "cssProperty": "background-color: #38c172"
+      },
+      {
+        "name": "bg-danger",
+        "tailwind": "bg-red-500",
+        "bootstrap": "bg-danger",
+        "cssProperty": "background-color: #e3342f"
+      },
+      {
+        "name": "bg-warning",
+        "tailwind": "bg-yellow-500",
+        "bootstrap": "bg-warning",
+        "cssProperty": "background-color: #ffed4a"
+      },
+      {
+        "name": "bg-info",
+        "tailwind": "bg-teal-500",
+        "bootstrap": "bg-info",
+        "cssProperty": "background-color: #4dc0b5"
+      },
+      {
+        "name": "bg-light",
+        "tailwind": "bg-gray-200",
+        "bootstrap": "bg-light",
+        "cssProperty": "background-color: #f8f9fa"
+      },
+      {
+        "name": "bg-dark",
+        "tailwind": "bg-gray-800",
+        "bootstrap": "bg-dark",
+        "cssProperty": "background-color: #343a40"
+      },
+      {
+        "name": "text-primary",
+        "tailwind": "text-blue-500",
+        "bootstrap": "text-primary",
+        "cssProperty": "color: #3490dc"
+      },
+      {
+        "name": "text-secondary",
+        "tailwind": "text-gray-500",
+        "bootstrap": "text-secondary",
+        "cssProperty": "color: #6c757d"
+      },
+      {
+        "name": "text-success",
+        "tailwind": "text-green-500",
+        "bootstrap": "text-success",
+        "cssProperty": "color: #38c172"
+      },
+      {
+        "name": "text-danger",
+        "tailwind": "text-red-500",
+        "bootstrap": "text-danger",
+        "cssProperty": "color: #e3342f"
+      },
+      {
+        "name": "text-warning",
+        "tailwind": "text-yellow-500",
+        "bootstrap": "text-warning",
+        "cssProperty": "color: #ffed4a"
+      },
+      {
+        "name": "text-info",
+        "tailwind": "text-teal-500",
+        "bootstrap": "text-info",
+        "cssProperty": "color: #4dc0b5"
+      },
+      {
+        "name": "text-light",
+        "tailwind": "text-gray-200",
+        "bootstrap": "text-light",
+        "cssProperty": "color: #f8f9fa"
+      },
+      {
+        "name": "text-dark",
+        "tailwind": "text-gray-800",
+        "bootstrap": "text-dark",
+        "cssProperty": "color: #343a40"
+      },
+      {
+        "name": "bg-transparent",
+        "tailwind": "bg-transparent",
+        "bootstrap": "bg-transparent",
+        "cssProperty": "background-color: transparent"
+      },
+      {
+        "name": "text-xs",
+        "tailwind": "text-xs",
+        "bootstrap": "text-small",
+        "cssProperty": "font-size: 0.75rem"
+      },
+      {
+        "name": "text-sm",
+        "tailwind": "text-sm",
+        "bootstrap": "text-sm",
+        "cssProperty": "font-size: 0.875rem"
+      },
+      {
+        "name": "text-base",
+        "tailwind": "text-base",
+        "bootstrap": "text-base",
+        "cssProperty": "font-size: 1rem"
+      },
+      {
+        "name": "text-lg",
+        "tailwind": "text-lg",
+        "bootstrap": "text-lg",
+        "cssProperty": "font-size: 1.125rem"
+      },
+      {
+        "name": "text-xl",
+        "tailwind": "text-xl",
+        "bootstrap": "text-xl",
+        "cssProperty": "font-size: 1.25rem"
+      },
+      {
+        "name": "text-2xl",
+        "tailwind": "text-2xl",
+        "bootstrap": "text-2xl",
+        "cssProperty": "font-size: 1.5rem"
+      },
+      {
+        "name": "text-3xl",
+        "tailwind": "text-3xl",
+        "bootstrap": "text-3xl",
+        "cssProperty": "font-size: 1.875rem"
+      },
+      {
+        "name": "text-4xl",
+        "tailwind": "text-4xl",
+        "bootstrap": "text-4xl",
+        "cssProperty": "font-size: 2.25rem"
+      },
+      {
+        "name": "text-5xl",
+        "tailwind": "text-5xl",
+        "bootstrap": "text-5xl",
+        "cssProperty": "font-size: 3rem"
+      },
+      {
+        "name": "font-thin",
+        "tailwind": "font-thin",
+        "bootstrap": "font-weight: 100",
+        "cssProperty": "font-weight: 100"
+      },
+      {
+        "name": "font-light",
+        "tailwind": "font-light",
+        "bootstrap": "font-weight: 300",
+        "cssProperty": "font-weight: 300"
+      },
+      {
+        "name": "font-normal",
+        "tailwind": "font-normal",
+        "bootstrap": "font-weight: normal",
+        "cssProperty": "font-weight: normal"
+      },
+      {
+        "name": "font-medium",
+        "tailwind": "font-medium",
+        "bootstrap": "font-weight: 500",
+        "cssProperty": "font-weight: 500"
+      },
+      {
+        "name": "font-semibold",
+        "tailwind": "font-semibold",
+        "bootstrap": "font-weight: 600",
+        "cssProperty": "font-weight: 600"
+      },
+      {
+        "name": "font-bold",
+        "tailwind": "font-bold",
+        "bootstrap": "font-weight: bold",
+        "cssProperty": "font-weight: bold"
+      },
+      {
+        "name": "font-extrabold",
+        "tailwind": "font-extrabold",
+        "bootstrap": "font-weight: 800",
+        "cssProperty": "font-weight: 800"
+      },
+      {
+        "name": "font-black",
+        "tailwind": "font-black",
+        "bootstrap": "font-weight: 900",
+        "cssProperty": "font-weight: 900"
+      },
+      {
+        "name": "underline",
+        "tailwind": "underline",
+        "bootstrap": "text-decoration: underline",
+        "cssProperty": "text-decoration: underline"
+      },
+      {
+        "name": "line-through",
+        "tailwind": "line-through",
+        "bootstrap": "text-decoration: line-through",
+        "cssProperty": "text-decoration: line-through"
+      },
+      {
+        "name": "no-underline",
+        "tailwind": "no-underline",
+        "bootstrap": "text-decoration: none",
+        "cssProperty": "text-decoration: none"
+      },
+      {
+        "name": "border",
+        "tailwind": "border",
+        "bootstrap": "border",
+        "cssProperty": "border: 1px solid #ccc"
+      },
+      {
+        "name": "border-2",
+        "tailwind": "border-2",
+        "bootstrap": "border-2",
+        "cssProperty": "border-width: 2px"
+      },
+      {
+        "name": "border-4",
+        "tailwind": "border-4",
+        "bootstrap": "border-4",
+        "cssProperty": "border-width: 4px"
+      },
+      {
+        "name": "border-solid",
+        "tailwind": "border-solid",
+        "bootstrap": "border-style: solid",
+        "cssProperty": "border-style: solid"
+      },
+      {
+        "name": "border-dashed",
+        "tailwind": "border-dashed",
+        "bootstrap": "border-style: dashed",
+        "cssProperty": "border-style: dashed"
+      },
+      {
+        "name": "border-dotted",
+        "tailwind": "border-dotted",
+        "bootstrap": "border-style: dotted",
+        "cssProperty": "border-style: dotted"
+      },
+      {
+        "name": "rounded",
+        "tailwind": "rounded",
+        "bootstrap": "rounded",
+        "cssProperty": "border-radius: 0.25rem"
+      },
+      {
+        "name": "rounded-full",
+        "tailwind": "rounded-full",
+        "bootstrap": "rounded-circle",
+        "cssProperty": "border-radius: 50%"
+      },
+      {
+        "name": "rounded-lg",
+        "tailwind": "rounded-lg",
+        "bootstrap": "rounded-lg",
+        "cssProperty": "border-radius: 0.5rem"
+      },
+      {
+        "name": "rounded-sm",
+        "tailwind": "rounded-sm",
+        "bootstrap": "rounded-sm",
+        "cssProperty": "border-radius: 0.125rem"
+      }
+                  
+      
+      
   ]
   

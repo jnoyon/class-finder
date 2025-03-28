@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="bg-gray-800 text-white py-6 mt-10">
       <div className="max-w-6xl mx-auto text-center">
         <p className="text-sm">
-          &copy; 2025 ClassFinder. All rights reserved.
+         ClassFinder - Code assistance by ChatGPT.
         </p>
         <div className="mt-4">
           <a

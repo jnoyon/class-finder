@@ -47,9 +47,9 @@ export default function Search() {
       </form>
 
       {/* Show total count of classes under the search box */}
-      <div className="mb-2 text-gray-700">
+      {/* <div className="mb-2 text-gray-700">
         <p>Total Classes: {classes.length}</p>
-      </div>
+      </div> */}
 
       {/* Show "No match found" if no results */}
       {searchTerm && filteredClasses.length === 0 && (
